@@ -7,6 +7,7 @@ LeetCode Interview Questions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ LeetCode Interview Questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
