@@ -14,6 +14,7 @@ LeetCode Interview Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ LeetCode Interview Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -39,4 +41,12 @@ LeetCode Interview Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0735-asteroid-collision/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
