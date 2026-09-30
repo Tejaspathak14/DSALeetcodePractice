@@ -9,6 +9,7 @@ LeetCode Interview Questions
 | [0014-longest-common-prefix](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
+| [0735-asteroid-collision](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,12 @@ LeetCode Interview Questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
