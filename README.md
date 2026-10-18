@@ -26,10 +26,12 @@ LeetCode Interview Questions
 | [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0344-reverse-string](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
