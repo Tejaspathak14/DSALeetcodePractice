@@ -9,6 +9,7 @@ LeetCode Interview Questions
 | [0014-longest-common-prefix](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0414-third-maximum-number/) | Easy |
 | [0735-asteroid-collision](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
@@ -55,5 +56,18 @@ LeetCode Interview Questions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0414-third-maximum-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tejaspathak14/DSALeetcodePractice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
